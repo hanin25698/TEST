@@ -17,4 +17,26 @@ body{
         }
 .row{
     display: flex;
-}
+} #power{
+    background-color:rgb(240, 231, 241);
+    color: rgb(133, 133, 71);
+    text-align: center;
+        }
+    .h{
+        width: 70%;
+        background-color: rgb(197, 186, 207);
+        
+        }
+        .s{
+            width: 50%;
+            background-color: rgb(158, 142, 173);
+            }
+            .n{
+                width: 30%;
+                background-color: rgb(114, 90, 136);
+                }
+                .th{
+                    width: 20%;
+                    background-color: rgb(83, 53, 110);
+                }
+    
